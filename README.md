@@ -1,4 +1,4 @@
-<h1>:book: Jogo de Dados</h1>
+<h1>:game_die: Jogo de Dados</h1>
 
 <p>Página simples de um jogo de dados, meu primeiro projeto utilizando JavaScript em página web.</p>
 <p>Para acessar o projeto clique no <a href="https://jogo-dados.netlify.app/">link.</a></p>
